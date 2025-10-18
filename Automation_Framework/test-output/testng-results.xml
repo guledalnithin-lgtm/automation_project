@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-12T15:26:48 IST" name="Suite" finished-at="2025-10-12T15:27:36 IST" duration-ms="48024">
+    <groups>
+    </groups>
+    <test started-at="2025-10-12T15:26:48 IST" name="Test" finished-at="2025-10-12T15:27:36 IST" duration-ms="48024">
+      <class name="apparelbooks.TC_DWS_041_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:apparelbooks.TC_DWS_041_Test@217ed35e]" started-at="2025-10-12T15:26:59 IST" name="openBrowser" finished-at="2025-10-12T15:27:03 IST" duration-ms="4766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:apparelbooks.TC_DWS_041_Test@217ed35e]" started-at="2025-10-12T15:27:03 IST" name="login" finished-at="2025-10-12T15:27:06 IST" duration-ms="2293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnApparel()[pri:0, instance:apparelbooks.TC_DWS_041_Test@217ed35e]" started-at="2025-10-12T15:27:06 IST" name="clickOnApparel" finished-at="2025-10-12T15:27:07 IST" duration-ms="1318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnApparel -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:apparelbooks.TC_DWS_041_Test@217ed35e]" started-at="2025-10-12T15:27:07 IST" name="logout" finished-at="2025-10-12T15:27:08 IST" duration-ms="1166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:apparelbooks.TC_DWS_041_Test@217ed35e]" started-at="2025-10-12T15:27:08 IST" name="closeBrowser" finished-at="2025-10-12T15:27:08 IST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- apparelbooks.TC_DWS_041_Test -->
+      <class name="digitaldownloads.TC_DWS_051_Test">
+        <test-method is-config="true" signature="reportConfig()[pri:0, instance:digitaldownloads.TC_DWS_051_Test@3fc2959f]" started-at="2025-10-12T15:26:47 IST" name="reportConfig" finished-at="2025-10-12T15:26:48 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportConfig -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:digitaldownloads.TC_DWS_051_Test@3fc2959f]" started-at="2025-10-12T15:26:48 IST" name="openBrowser" finished-at="2025-10-12T15:26:53 IST" duration-ms="5614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:digitaldownloads.TC_DWS_051_Test@3fc2959f]" started-at="2025-10-12T15:26:53 IST" name="login" finished-at="2025-10-12T15:26:56 IST" duration-ms="2229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnDigitalDownloads()[pri:0, instance:digitaldownloads.TC_DWS_051_Test@3fc2959f]" started-at="2025-10-12T15:26:56 IST" name="clickOnDigitalDownloads" finished-at="2025-10-12T15:26:57 IST" duration-ms="1252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnDigitalDownloads -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:digitaldownloads.TC_DWS_051_Test@3fc2959f]" started-at="2025-10-12T15:26:57 IST" name="logout" finished-at="2025-10-12T15:26:58 IST" duration-ms="1139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:digitaldownloads.TC_DWS_051_Test@3fc2959f]" started-at="2025-10-12T15:26:58 IST" name="closeBrowser" finished-at="2025-10-12T15:26:59 IST" duration-ms="519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="reportBackup()[pri:0, instance:digitaldownloads.TC_DWS_051_Test@3fc2959f]" started-at="2025-10-12T15:27:36 IST" name="reportBackup" finished-at="2025-10-12T15:27:36 IST" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportBackup -->
+      </class> <!-- digitaldownloads.TC_DWS_051_Test -->
+      <class name="computers.TC_DWS_021_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:computers.TC_DWS_021_Test@229f66ed]" started-at="2025-10-12T15:27:18 IST" name="openBrowser" finished-at="2025-10-12T15:27:22 IST" duration-ms="4685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:computers.TC_DWS_021_Test@229f66ed]" started-at="2025-10-12T15:27:22 IST" name="login" finished-at="2025-10-12T15:27:24 IST" duration-ms="2088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnComputers()[pri:0, instance:computers.TC_DWS_021_Test@229f66ed]" started-at="2025-10-12T15:27:24 IST" name="clickOnComputers" finished-at="2025-10-12T15:27:25 IST" duration-ms="886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnComputers -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:computers.TC_DWS_021_Test@229f66ed]" started-at="2025-10-12T15:27:25 IST" name="logout" finished-at="2025-10-12T15:27:26 IST" duration-ms="1092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:computers.TC_DWS_021_Test@229f66ed]" started-at="2025-10-12T15:27:26 IST" name="closeBrowser" finished-at="2025-10-12T15:27:27 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- computers.TC_DWS_021_Test -->
+      <class name="books.TC_DWS_001_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:books.TC_DWS_001_Test@7dcf94f8]" started-at="2025-10-12T15:27:08 IST" name="openBrowser" finished-at="2025-10-12T15:27:13 IST" duration-ms="4518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:books.TC_DWS_001_Test@7dcf94f8]" started-at="2025-10-12T15:27:13 IST" name="login" finished-at="2025-10-12T15:27:15 IST" duration-ms="2082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnBooks()[pri:0, instance:books.TC_DWS_001_Test@7dcf94f8]" started-at="2025-10-12T15:27:15 IST" name="clickOnBooks" finished-at="2025-10-12T15:27:16 IST" duration-ms="1178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBooks -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:books.TC_DWS_001_Test@7dcf94f8]" started-at="2025-10-12T15:27:16 IST" name="logout" finished-at="2025-10-12T15:27:17 IST" duration-ms="1118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:books.TC_DWS_001_Test@7dcf94f8]" started-at="2025-10-12T15:27:17 IST" name="closeBrowser" finished-at="2025-10-12T15:27:18 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- books.TC_DWS_001_Test -->
+      <class name="electronics.TC_DWS_031_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:electronics.TC_DWS_031_Test@31190526]" started-at="2025-10-12T15:27:27 IST" name="openBrowser" finished-at="2025-10-12T15:27:31 IST" duration-ms="4658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:electronics.TC_DWS_031_Test@31190526]" started-at="2025-10-12T15:27:31 IST" name="login" finished-at="2025-10-12T15:27:33 IST" duration-ms="2075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnElectronics()[pri:0, instance:electronics.TC_DWS_031_Test@31190526]" started-at="2025-10-12T15:27:33 IST" name="clickOnElectronics" finished-at="2025-10-12T15:27:34 IST" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnElectronics -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:electronics.TC_DWS_031_Test@31190526]" started-at="2025-10-12T15:27:34 IST" name="logout" finished-at="2025-10-12T15:27:35 IST" duration-ms="1046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:electronics.TC_DWS_031_Test@31190526]" started-at="2025-10-12T15:27:35 IST" name="closeBrowser" finished-at="2025-10-12T15:27:36 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- electronics.TC_DWS_031_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

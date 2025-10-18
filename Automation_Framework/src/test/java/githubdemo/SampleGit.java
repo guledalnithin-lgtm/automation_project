@@ -8,6 +8,9 @@ public class SampleGit {
 	@Test
 	public void test() {
 		WebDriver driver=new ChromeDriver();
+
+		WebDriver driver=new ChromeDriver();
 	}
 
 }
+
